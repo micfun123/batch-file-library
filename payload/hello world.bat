@@ -1,2 +1,3 @@
 @echo off
-@echo hello world!S
+@echo hello world!
+pause
