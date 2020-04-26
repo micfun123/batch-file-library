@@ -1,0 +1,1 @@
+The can only be used for non malicious uses. This is to help people learn how bat files work.
