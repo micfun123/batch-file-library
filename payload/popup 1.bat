@@ -1,3 +1,5 @@
-echo msgbox "Hey! Here is a message!" > %tmp%\tmp.vbs
-wscript %tmp%\tmp.vbs
-del %tmp%\tmp.vbs
+@echo off
+
+echo x=msgbox("Your Text Here" ,0, "Your Title Here") >> msgbox.vbs
+
+start msgbox.vbs
