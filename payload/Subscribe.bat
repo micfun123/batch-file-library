@@ -1,1 +1,0 @@
-start chrome https://www.youtube.com/channel/UCseznP4Qb2DrRcDXcnAx_iw/about?sub_confirmation=1
